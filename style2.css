@@ -1,0 +1,38 @@
+body{
+    background-color: blanchedalmond;
+    font-family: "Sour Gummy" sans-serif;
+}
+#myCarousel{
+    max-width: 500px;
+    height: auto;
+    margin: 0 auto;
+    margin-left:150px;
+}
+#myCarousel h4{
+    font-family: "Sour Gummy" sans-serif !important;
+}
+
+#myCarousel2{
+    max-width: 600px;
+    height:auto;
+    margin: 0 auto;
+    margin-left: 700px;
+    position: absolute;
+    bottom: 20px;
+}
+
+#myCarousel2 h4{
+    font-family: "Sour Gummy" sans-serif !important;
+    font-size: 100px;
+}
+
+audio{
+    position:absolute;
+    left:250px;
+}
+
+.back h4{
+    font-family: "Sour Gummy" sans-serif !important;
+    position:absolute;
+    bottom:0;
+}

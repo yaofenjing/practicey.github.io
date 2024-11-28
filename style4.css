@@ -1,0 +1,17 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.top{
+    font-family: "Sour Gummy", sans-serif;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.top h2 strong{
+    font-size: 30px;
+}
+
+.back{
+    font-family: "Roboto", sans-serif;
+}
